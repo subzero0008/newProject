@@ -1,4 +1,5 @@
 # ⚙️ File Upload & Processing App
+# Live Demo: https://fileextractor.netlify.app/
 
 A full-stack application for uploading and analyzing files.  
 Simulates real-world business systems (HR, accounting, data automation).
